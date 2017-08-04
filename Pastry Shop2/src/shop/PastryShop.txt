@@ -1,0 +1,20 @@
+Cake 30 1 05.07.2017 true 1 true
+Biscuit 23 5 03.03.2016 false
+Cake 78 4 05.05.2012 false
+Bun 55 5 04.04.2014 true
+Bun 2 1 05.07.2017 true
+Biscuit 55 5 04.03.2014 true
+Cake 30 1 05.07.2017 true
+Cake 30 1 06.07.2017 true
+Biscuit 2 2 02.02.2012 false
+Bun 2 1 05.07.2017 true
+Cake 33 3 06.07.2014 false
+Bun 45 3 03.14.2015 false
+Biscuit 45 3 03.14.2015 false
+Cake 2 24 05.08.2013 true
+Biscuit 3 3 23.07.2017 false
+Biscuit 2 2 22.07.2015 true
+Cake 1 12 12.12.2012 false
+Biscuit 3 4 23.02.2018 true
+Bun 3 4 23.02.2018 true
+Cake 3 4 23.02.2018 true
